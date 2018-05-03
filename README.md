@@ -10,30 +10,30 @@
 
 ### Hospedagem
 
-+ * [DigitalOcean](https://www.digitalocean.com)
++ [DigitalOcean](https://www.digitalocean.com)
 
 ### Ferramentas Utilizadas
 
 #### Backend
 
-+ * [Node.js](http://nodejs.org)
-+ * [MySQL](https://www.mysql.com/)
-+ * [Sequelize](http://docs.sequelizejs.com/)
-+ * [Express](http://expressjs.com)
++  [Node.js](http://nodejs.org)
++  [MySQL](https://www.mysql.com/)
++  [Sequelize](http://docs.sequelizejs.com/)
++  [Express](http://expressjs.com)
 #### Frontend
 
-+ * [Angularjs](https://angularjs.org/)
-+ * [Angularjs Material](https://material.angularjs.org/latest/)
-+ * [Lodash](https://lodash.com/)
+ +  [Angularjs](https://angularjs.org/)
+ +  [Angularjs Material](https://material.angularjs.org/latest/)
+ +  [Lodash](https://lodash.com/)
 
 ### App 
 
-+[http://www.pontimob.com.br](http://www.pontimob.com.br)
++ [http://www.pontimob.com.br](http://www.pontimob.com.br)
 
 ### Nescessidade
 
-+Node.js
-+Bower Instalado Globalmente
++ Node.js
++ Bower Instalado Globalmente
 
 ### Instalação e Inicialização
 
