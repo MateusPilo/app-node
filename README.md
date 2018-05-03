@@ -8,38 +8,38 @@
 +---
 +
 +
-+### Hospedagem
+### Hospedagem
 +
 + * [DigitalOcean](https://www.digitalocean.com)
 +
-+### Ferramentas Utilizadas
+### Ferramentas Utilizadas
 +
-+#### Backend
+#### Backend
 +
 + * [Node.js](http://nodejs.org)
 + * [MySQL](https://www.mysql.com/)
 + * [Sequelize](http://docs.sequelizejs.com/)
 + * [Express](http://expressjs.com)
 +
-+#### Frontend
+#### Frontend
 +
 + * [Angularjs](https://angularjs.org/)
 + * [Angularjs Material](https://material.angularjs.org/latest/)
 + * [Lodash](https://lodash.com/)
 +
-+### App 
+### App 
 +
 +[http://www.pontimob.com.br](http://www.pontimob.com.br)
 +
-+### Nescessidade
+### Nescessidade
 +
 +Node.js
 +Bower Instalado Globalmente
 +
-+### Instalação e Inicialização
+### Instalação e Inicialização
 +
 +
-+#### Backend
+#### Backend
 +
 +    cd app/backend
 +    npm install
@@ -47,7 +47,7 @@
 +
 +    Backend estará rodando na porta 5001
 +
-+#### Frontend
+#### Frontend
 +
 +    cd app/frontend
 +    npm install
