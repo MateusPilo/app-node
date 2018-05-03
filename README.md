@@ -44,7 +44,7 @@
 +    npm install
 +    npm start
 +    Backend estará rodando na porta 5001
-+
+
 #### Frontend
 
 +    cd app/frontend
