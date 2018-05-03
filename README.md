@@ -1,11 +1,11 @@
-+## App - Teste Node Backend Isolado
+## App - Teste Node Backend Isolado
 +
 + App - Node.js
 +	
 + Aplicatico de teste e aprendizado, hospedagem e execução no Droplet da DigitalOcean
 + 
 +
-+---
+---
 +
 +
 ### Hospedagem
@@ -20,7 +20,6 @@
 + * [MySQL](https://www.mysql.com/)
 + * [Sequelize](http://docs.sequelizejs.com/)
 + * [Express](http://expressjs.com)
-+
 #### Frontend
 +
 + * [Angularjs](https://angularjs.org/)
@@ -35,7 +34,7 @@
 +
 +Node.js
 +Bower Instalado Globalmente
-+
+
 ### Instalação e Inicialização
 +
 +
@@ -44,7 +43,6 @@
 +    cd app/backend
 +    npm install
 +    npm start
-+
 +    Backend estará rodando na porta 5001
 +
 #### Frontend
@@ -53,6 +51,5 @@
 +    npm install
 +    bower install
 +    npm start
-+
 +    Frontend estará rodando na porta 5000
 +
