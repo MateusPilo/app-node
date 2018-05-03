@@ -40,14 +40,14 @@
 
 #### Backend
 
-+    cd app/backend
++    cd app-node/backend
 +    npm install
 +    npm start
 +    Backend estará rodando na porta 5001
 
 #### Frontend
 
-+    cd app/frontend
++    cd app-node/frontend
 +    npm install
 +    bower install
 +    npm start
